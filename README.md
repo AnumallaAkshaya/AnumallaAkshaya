@@ -5,5 +5,4 @@
 - 📫 Feel free to connect with me
 -        Email:akshayaanumalla1409@gmail.com
 -        LinkedIn:https://www.linkedin.com/in/akshaya-anumalla-492113333/
--        X:https://x.com/AkshayaAnumalla
 -        GitHub:https://github.com/AnumallaAkshaya

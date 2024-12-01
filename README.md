@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnumallaAkshaya
 - 👀 I’m interested in creating projects, web development, and building interactive and innovative web applications
-- 🌱 I’m currently full-stack web development through the CS50W course
+- 🌱 I’m currently working on full-stack web development through the CS50W course
 - 💞️ I’m looking to collaborate on innovative projects that focus on improving user interfaces and experiences."
 - 📫 Feel free to connect with me
 -        Email:akshayaanumalla1409@gmail.com
